@@ -1,0 +1,215 @@
+# What can YOU [ ARKIV ] ? Ideathon — Official Rules & Terms
+
+---
+
+## 1. Overview
+
+The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Factory GmbH, doing business as "Arkiv Network" ("Organizer"). It is an online ideas competition: participants submit concepts designed on Arkiv's entity model — no code, deployment or prototype is required. By submitting an entry, participants agree to these rules in full.
+
+---
+
+## 2. Eligibility
+
+- Open to individuals and teams worldwide. Participation is fully online.
+- Participants must be 18 years or older at time of submission.
+- No purchase necessary to enter.
+- Employees of the Organizer (Golem Factory GmbH) and its affiliated entities, and their immediate family members, are not eligible.
+- Multiple submissions are allowed, but each must be a distinct idea — not variants or duplicates of the same concept. Only one prize is awarded per individual or team regardless of how many entries they submit.
+- Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5).
+
+---
+
+## 3. Ideathon Period
+
+- **Submissions open:** August 3, 2026
+- **Challenge 1 spotlight · AI & Agents (host: Santiago Zuluaga):** August 3 – 11, 2026
+- **Challenge 2 spotlight · Marketplaces (host: Shantelle Awomoyi):** August 12 – 20, 2026
+- **Challenge 3 spotlight · DeFi (host: Marcos Miranda):** August 21 – 31, 2026
+- **Open "Other" lane:** all month
+- **Submissions close:** August 31, 2026 at 23:59 UTC
+- **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by per-track winner announcements)
+
+Challenge spotlight windows are when each challenge is hosted (sessions and highlights from its host); the submission form accepts entries to any challenge for the whole period. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
+
+---
+
+## 4. Submission Requirements
+
+All submissions must be made via the official submission form: **[tally.so/r/OD9eeY](https://tally.so/r/OD9eeY?ref=github-rules)**. This is the only valid method of submission.
+
+**Your form answers are the submission.** No repository, deployment, demo or separate document is required. A complete submission includes:
+
+| Requirement | Details |
+| :---------- | :------ |
+| **The idea** | Name, one-line pitch, chosen challenge, the problem and who it's for, and the first slice you'd build |
+| **The Arkiv data model** | The entities and typed attributes you'd write, the queries you'd rely on, how expiry / extension / verifiable ownership work as product features, why the idea genuinely needs Arkiv over a plain database, and what deliberately stays off Arkiv |
+| **Contact** | Name and email (used for review, updates and results) |
+
+Optional: supporting links (mock, diagram, pseudocode, repo) and a short video walkthrough. They can clarify the idea, but polish does not earn points.
+
+### What counts as a valid submission
+
+- Must address one of the three challenges — **AI & Agents**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
+- Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — not generic storage with an Arkiv label
+- Must be the participant's own original concept. Building on public prior art is fine; state what's yours.
+- Use of AI assistants (Copilot, Claude, ChatGPT, etc.) to develop and sharpen the idea is allowed and encouraged — we care about the quality of the thinking, not how you got there
+
+### What will disqualify a submission
+
+- Plagiarizing another participant's or third party's work and presenting it as your own
+- Submissions whose design does not meaningfully involve Arkiv
+- Content that is illegal, harmful, or violates third-party rights
+- Submissions after the deadline
+
+---
+
+## 5. Prizes
+
+**Total prize pool: $4,000 USDC — up to $1,000 per track.**
+
+Each track (the three challenges and the open "Other" lane) awards **up to one winner each at $500, $300 and $200**, decided by the judging team against the published [scoring rubric](docs/scoring-rubric.md). The judging team for each track is its host plus guest judges (which may include other Arkiv team members or previous hackathon winners). If one track has stronger submissions, allocation may be weighted accordingly; prizes that are not awarded in a track are not guaranteed to be redistributed.
+
+Strong ideas may additionally receive non-monetary support: mainnet credits or early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification.
+
+### Prize conditions
+
+- **Currency:** Prizes are disbursed in USDC to the EVM wallet address confirmed by the winner during KYC.
+- **One prize per team.** If a winning team has multiple members, the team receives one prize. How the team splits it is the team's responsibility.
+- **One prize per individual or team across all entries.** If more than one of a participant's submissions ranks in a prize position, only the highest-ranked entry claims a prize. Remaining allocations cascade to the next eligible submission.
+- **Prize winners complete KYC before payout.** All team members must complete KYC individually before funds are disbursed. See Section 7.
+- **Prizes are non-transferable** except as described in the unclaimed-prize policy (Section 6).
+- **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes.
+
+---
+
+## 6. Unclaimed Prizes
+
+If a winner cannot or does not claim their prize within **3 calendar days** of the winner announcement:
+
+1. The Organizer will notify the winner and request confirmation
+2. If no response or the winner declines, the Organizer may transfer the prize to the next highest-ranked submission
+3. The runner-up then has 3 calendar days to complete KYC and claim the prize
+4. This process may repeat at the Organizer's discretion
+
+Reasons a winner may not claim include (but are not limited to): inability to complete KYC, or failure to respond within the claim window.
+
+---
+
+## 7. KYC & Prize Disbursement
+
+### Who must complete KYC
+
+**All team members** of a winning team must complete KYC individually. This is required before any funds are disbursed.
+
+### Required documents
+
+Each team member must provide:
+
+1. **Government-issued ID** — Passport (preferred): a clear photo or scan of the identification page. National ID: both sides. The document must include your printed signature (most passports have one on the photo page).
+2. **Signed declaration form** — We'll provide a PDF form. Print it, **sign it by hand with a pen**, then scan or photograph it. We do not accept digital, typed, or pasted signatures.
+3. **Selfie with ID** — A photo of yourself holding your ID next to your face. Both your face and the ID must be clearly readable.
+
+The declaration form is provided to winners directly after notification.
+
+### Process
+
+1. **Winner notified** via the email (and, if provided, Telegram) from the submission form
+2. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification
+3. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
+4. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed (2 additional days)
+5. **Disbursement** — the prize is sent in USDC to the confirmed wallet address on Ethereum mainnet
+
+### KYC data handling
+
+- KYC documents are forwarded to the Organizer's compliance office for processing
+- Government IDs and signed forms are retained per the Organizer's compliance requirements
+- KYC data will not be shared with third parties except as required by law
+
+---
+
+## 8. Judging
+
+### Panel
+
+The judging team is led by the track hosts — Santiago Zuluaga (AI & Agents + the open "Other" lane), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may include guest judges invited by the Organizer.
+
+### Evaluation criteria
+
+All challenges and the open lane are scored on the same rubric — **20 points for alignment with the chosen track + 80 points of general criteria**:
+
+| Criteria | Points | What we're looking for |
+| :------- | -----: | :--------------------- |
+| **Track alignment** | 20 | How directly the idea serves the track it entered — its impact and relevance for that space (Other lane: how genuinely it needs the Web3-database model) |
+| **Arkiv fit** | 20 | There's a real counterfactual: the idea materially breaks or weakens on a conventional, operator-controlled database — so it genuinely needs Arkiv |
+| **Data & query design** | 20 | The entity schema, typed attributes and the queries the product lives on — with Entity Expiration, Lifetime Extension and creator/owner metadata used as real product features |
+| **Impact & usefulness** | 15 | Genuinely useful to a real developer or user — not a demo hunting for a problem |
+| **Clarity & feasibility** | 15 | The idea is explained clearly and could realistically be built — the scope is sharp and honest |
+| **Uniqueness** | 10 | A fresh angle — not the obvious first idea every submission reaches for |
+
+Point weights, the exact scoring formula and the judging process: see the **[Scoring Rubric](docs/scoring-rubric.md)**.
+
+### Process
+
+1. All valid submissions are reviewed by the full judging panel in a single pool
+2. Each judge scores independently against the rubric
+3. Scores are averaged across judges
+4. Final ranking is determined by total score; the panel allocates the prize pool against the ranking
+5. In case of a tie, the panel discusses and reaches consensus
+6. Judges' decisions are final and not subject to appeal
+
+---
+
+## 9. Intellectual Property
+
+- **Participants retain full ownership** of their ideas and submissions.
+- By entering, participants grant the Organizer a **non-exclusive, royalty-free, worldwide license** to showcase the submission in marketing materials, presentations, and documentation, and to reference it as an example of what can be designed on Arkiv.
+- **Submissions are not confidential.** This is an ideas competition on a shared theme: the Organizer, other participants, or the broader community may independently conceive, develop or publish similar ideas, before or after the Ideathon, without obligation or compensation. Do not include trade secrets or confidential information in a submission.
+- This license does not transfer ownership. Participants can do whatever they want with their own ideas — including building them.
+
+---
+
+## 10. Code of Conduct
+
+Participants agree to:
+
+- Treat other participants, organizers, and community members with respect
+- Not engage in harassment, discrimination, or hostile behavior in any Ideathon-related channel
+- Not attempt to sabotage, interfere with, or copy other participants' submissions
+- Not submit content that is illegal, harmful, or violates third-party rights
+- Report any concerns to the Organizer via Discord
+
+Violations may result in disqualification at the Organizer's sole discretion.
+
+---
+
+## 11. Liability & Disclaimers
+
+- The Organizer is not responsible for technical failures or network issues that may affect participants' ability to submit
+- The Organizer reserves the right to modify these rules, extend deadlines, or cancel the Ideathon if circumstances require it. Participants will be notified of any changes via Discord and official channels.
+- In the event of cancellation, no prizes will be awarded unless submissions have already been received and judged
+- The Organizer's total liability is limited to the stated prize amounts
+
+---
+
+## 12. Privacy
+
+- Personal information collected through the submission form is used solely for Ideathon administration (review, updates, results)
+- Email addresses may be used to communicate about the Ideathon (winner notification, updates)
+- Participants will not be added to marketing mailing lists without explicit consent
+- KYC data is handled as described in Section 7
+
+---
+
+## 13. Governing Law
+
+These rules are governed by the laws of Switzerland. Any disputes will be resolved through good-faith negotiation between the parties.
+
+---
+
+## 14. Contact
+
+Questions about these rules: join the [Arkiv Discord](https://discord.gg/arkiv).
+
+---
+
+*By submitting an entry, you confirm that you have read, understood, and agree to these Official Rules & Terms.*
