@@ -44,6 +44,9 @@ specifically. For the **Other** lane, alignment means how genuinely the idea nee
 Web3-database model at all (queryable, time-scoped, tamper-proof entities) outside the three
 named tracks.
 
+This criterion **belongs to the track's host** — Santiago (AI & DevTools · Other), Shantelle
+(Marketplaces), Marcos (DeFi): the host's read of their track's brief anchors its score.
+
 | 1 (Weak) | 3 (Solid) | 5 (Excellent) |
 | :------- | :-------- | :------------ |
 | The track label is incidental — the same pitch could sit in any track | Clearly belongs: it addresses a real problem of this track's space and speaks its language | A flagship example of the track: high impact for that space, exactly the kind of idea the track brief describes |
@@ -71,22 +74,25 @@ Extension and creator/owner metadata used as real product features**, not compli
 > #### The tooling lens (how criteria 2 & 3 apply to DevEx / infrastructure ideas)
 >
 > Some submissions are tools *for* Arkiv builders — visualizers, indexers, SDKs, linters, agent
-> surfaces — rather than products that store their own state. Judge them on the same two criteria,
-> through this lens:
+> surfaces — rather than products that store their own state. **These are first-class submissions:
+> making Arkiv easier to adopt, learn, debug or build on is exactly what the ecosystem needs.**
+> Judge them on the same two criteria, through this lens:
 >
-> - **Arkiv fit:** replace "what breaks without Arkiv" with "**what does this unlock that a generic
->   equivalent can't?**" Score high only if the tool is load-bearing on Arkiv's specific primitives —
->   entities + typed attributes, predicate queries, Entity Expiration / Lifetime Extension,
->   `$creator` / `$owner` semantics. A dashboard, CLI or bot that would work identically against
->   any REST API scores 1–2.
+> - **Arkiv fit:** for a tool, fit = **how much it moves Arkiv's developer experience and developer
+>   adoption**. A tool that removes a real Arkiv builder's pain — or brings new builders to Arkiv —
+>   can score 4–5 even if it touches the chain itself lightly; deep use of Arkiv's primitives
+>   (entities + typed attributes, predicate queries, Entity Expiration / Lifetime Extension,
+>   `$creator` / `$owner`) pushes it higher still, but is a **bonus, not a gate**. What still scores
+>   1–2: a generic tool with an Arkiv sticker — nothing in it shaped by Arkiv's model or by a real
+>   Arkiv builder's workflow.
 > - **Data & query design:** score **the Arkiv data contract the tool consumes, emits, or teaches**,
 >   written out concretely — the entity types and typed attributes it expects or produces, the 2–3
 >   predicates it issues (with pagination / counts / client-side ordering behavior), and how it
 >   surfaces expiration and ownership. A tool pitch with no written contract anywhere scores 0–1,
 >   exactly like an app pitch with no schema.
 >
-> The tooling lens changes **whose** schema you write down, never **whether**. A vague "I'll build
-> an Arkiv dashboard" still has nothing concrete to score.
+> The tooling lens changes **whose** schema you write down, never **whether**. Creativity is the
+> point — but a vague "I'll build an Arkiv dashboard" still has nothing concrete to score.
 
 ### 4 · Impact & usefulness — 15 pts
 
@@ -124,21 +130,24 @@ A fresh angle — not the obvious first idea every submission reaches for.
 
 1. **Eligibility check before scoring.** Entries that violate the rules (plagiarism, no meaningful
    Arkiv involvement, late, prohibited content) are **disqualified before judging** — removed from
-   the pool, not scored low. *Meaningful Arkiv involvement* includes tools whose core function is
-   load-bearing on Arkiv's primitives even when they write no entities of their own (see the
-   tooling lens above); a static content wrapper, or a generic tool that would work unchanged
-   against any REST API, does not qualify.
-2. **Calibration round.** Before independent scoring, every judge scores the same 3–5 sample
+   the pool, not scored low. *Meaningful Arkiv involvement* includes tools that improve Arkiv's
+   DevEx or developer adoption even when they write no entities of their own (see the tooling
+   lens above); what does not qualify is a generic tool or content wrapper with **no concrete
+   Arkiv surface at all** — nothing consumed, emitted, taught or integrated.
+2. **Duplicates.** When two submissions are substantially the same idea, the one **submitted
+   first** takes precedence (the form timestamp is the official record); a later near-duplicate
+   is judged only on what it genuinely adds.
+3. **Calibration round.** Before independent scoring, every judge scores the same 3–5 sample
    submissions and compares notes — so a "3" means the same thing across judges.
-3. **Independent scoring.** Each judge scores every valid submission in their track's pool against
+4. **Independent scoring.** Each judge scores every valid submission in their track's pool against
    the rubric.
-4. **Evidence notes.** A one-line justification is required for any extreme score (0–1 or 5).
-5. **Conflict of interest.** A judge with a personal or professional connection to a submitter
+5. **Evidence notes.** A one-line justification is required for any extreme score (0–1 or 5).
+6. **Conflict of interest.** A judge with a personal or professional connection to a submitter
    discloses it and recuses from that entry; its score is the average of the remaining judges.
-6. **Ranking + allocation.** Prizes are awarded **per track** (up to one winner each at
-   $500 / $300 / $200) against the track's ranking; a track with stronger submissions may be
-   weighted accordingly.
-7. Judges' decisions are final and not subject to appeal.
+7. **Ranking + allocation.** Every winning idea receives **$400 USDC** from the shared
+   **$4,000 USDC pool** (up to 10 winning ideas across the tracks), awarded against each track's
+   ranking; a track with stronger submissions may take more of the pool.
+8. Judges' decisions are final and not subject to appeal.
 
 ## Tiebreaker
 
@@ -168,8 +177,9 @@ six rubric criteria, exactly as anchored. Rules:
 - Track alignment is judged against the provided track brief (for "Other": against whether the
   idea genuinely needs queryable, time-scoped, tamper-proof entities).
 - If the submission is a tool for Arkiv builders rather than an app, apply the rubric's tooling
-  lens: judge Arkiv fit on what the tool unlocks that a generic equivalent can't, and Data & query
-  design on the Arkiv data contract the tool consumes, emits, or teaches.
+  lens: Arkiv fit = its leverage on Arkiv's DevEx and developer adoption (deep use of Arkiv
+  primitives raises it further, but is a bonus, not a gate), and Data & query design = the Arkiv
+  data contract the tool consumes, emits, or teaches.
 - Production polish (visual quality of video/mocks) earns nothing; content clarity does.
 - For every criterion, quote or reference the exact submission text that drove the score.
 - If you detect possible plagiarism, a design that doesn't meaningfully involve Arkiv, or

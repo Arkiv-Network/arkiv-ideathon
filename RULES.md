@@ -50,8 +50,9 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 ### What counts as a valid submission
 
 - Must address one of the three challenges — **AI & DevTools**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
-- Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — not generic storage with an Arkiv label
+- Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — or, for developer tools, concretely serve Arkiv builders' workflow and Arkiv's developer adoption (see the [rubric's tooling lens](docs/scoring-rubric.md)). Generic storage or a generic tool with an Arkiv label doesn't qualify.
 - Must be the participant's own original concept. Building on public prior art is fine; state what's yours.
+- **Duplicates:** if two submissions are substantially the same idea, the one **submitted first** takes precedence (the form timestamp is the official record); a later near-duplicate is judged only on what it genuinely adds.
 - Use of AI assistants (Copilot, Claude, ChatGPT, etc.) to develop and sharpen the idea is allowed and encouraged — we care about the quality of the thinking, not how you got there
 
 ### What will disqualify a submission
@@ -65,9 +66,9 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 
 ## 5. Prizes
 
-**Total prize pool: $4,000 USDC — up to $1,000 per track.**
+**Total prize pool: $4,000 USDC — every winning idea receives $400 USDC** (up to 10 winning ideas across the tracks).
 
-Each track (the three challenges and the open "Other" lane) awards **up to one winner each at $500, $300 and $200**, decided by the judging team against the published [scoring rubric](docs/scoring-rubric.md). The judging team for each track is its host plus guest judges (which may include other Arkiv team members or previous hackathon winners). If one track has stronger submissions, allocation may be weighted accordingly; prizes that are not awarded in a track are not guaranteed to be redistributed.
+Winners are decided by the judging team against the published [scoring rubric](docs/scoring-rubric.md), against each track's ranking. The judging team for each track is its host plus guest judges (which may include other Arkiv team members or previous hackathon winners). If one track has stronger submissions, it may take more of the pool; prizes that are not awarded are not guaranteed to be redistributed.
 
 Strong ideas may additionally receive non-monetary support: mainnet credits or early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification.
 

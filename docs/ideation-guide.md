@@ -57,7 +57,7 @@ Same rubric everywhere — pick the one that excites you, or bring anything to t
 
 ### Challenge 1 · AI & DevTools — Aug 3 – 11 · host: Santiago Zuluaga
 
-Agents and dev tools constantly need shared state that outlives a single run but shouldn't live forever: what's been claimed, what a review found, how an eval scored. Arkiv gives that **ephemeral coordination state** a queryable, time-scoped home with verifiable authorship — no side database, no indexer. And the track is just as open to **developer tools and infrastructure** that help builders or agents model, ingest, inspect, query, or onboard to Arkiv — for those, the schema you're judged on is the one your tool consumes or emits (see the tooling lens in the [rubric](scoring-rubric.md)).
+Agents and dev tools constantly need shared state that outlives a single run but shouldn't live forever: what's been claimed, what a review found, how an eval scored. Arkiv gives that **ephemeral coordination state** a queryable, time-scoped home with verifiable authorship — no side database, no indexer. And the track is just as open to **developer tools and infrastructure** that help builders or agents model, ingest, inspect, query, or onboard to Arkiv — **improving Arkiv's DevEx and developer adoption is first-class here**, even if your tool touches the chain itself lightly (deep use of Arkiv's primitives is a bonus, not a gate). For those, the schema you're judged on is the one your tool consumes or emits (see the tooling lens in the [rubric](scoring-rubric.md)).
 
 | Idea seed | The hook |
 | :-------- | :------- |

@@ -44,7 +44,7 @@ Full briefs with idea seeds: [Ideation Guide](docs/ideation-guide.md).
 No. The windows are hosted spotlights (each opens with a kick-off session from its host); the form accepts submissions to any challenge for the whole month, until **Aug 31, 23:59 UTC**.
 
 **Does my challenge choice affect my score?**
-Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space). Pick the track your idea genuinely serves. Prizes are awarded per track (up to $1,000 each), and a track with stronger submissions may be weighted accordingly.
+Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space, anchored by that track's host). Pick the track your idea genuinely serves. Every winning idea gets $400 USDC from the shared $4,000 pool, and a track with stronger submissions may take more of it.
 
 **Can I submit more than one idea?**
 Yes — each entry must be a distinct idea, not variants of the same concept. Only one prize per individual or team regardless of how many entries rank.
@@ -86,7 +86,7 @@ Winners get feedback with the announcement. Individual feedback for non-winners 
 ### Prizes & KYC
 
 **What do I win?**
-Each track awards **up to $1,000 USDC** — up to one winner each at **$500, $300 and $200** — paid to an EVM wallet address. Strong ideas can also earn mainnet credits / early access, follow-on build support and marketing amplification. Winners and highlights roll out the **week of Sept 1**.
+The pool is **$4,000 USDC and every winning idea receives $400 USDC** (up to 10 winners across the tracks), paid to an EVM wallet address. Strong ideas can also earn mainnet credits / early access, follow-on build support and marketing amplification. Winners and highlights roll out the **week of Sept 1**.
 
 **When is KYC needed?**
 Only if you win: prize winners complete KYC before the prize is paid out.

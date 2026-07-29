@@ -68,7 +68,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 
 ## Prizes
 
-**$4,000 USDC total — up to $1,000 per track.** Each track awards **up to one winner each at $500, $300 and $200**, decided by the judging team (the track host + guests) against the published [scoring rubric](docs/scoring-rubric.md). A track with stronger submissions may be weighted accordingly.
+**$4,000 USDC total — every winning idea receives $400 USDC** (up to 10 winning ideas across the tracks), decided by the judging team (the track host + guests) against the published [scoring rubric](docs/scoring-rubric.md). A track with stronger submissions may take more of the pool.
 
 Strong ideas can also earn **non-monetary support**: mainnet credits / early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification for the strongest ideas.
 
