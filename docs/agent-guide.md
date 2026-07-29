@@ -24,8 +24,8 @@ claude mcp add --transport http arkiv-ideathon https://arkiv-ideathon-mcp.vercel
 
 Your agent gets the four tracks with their briefs and idea seeds, the official rules,
 the **exact 100-point judging rubric**, Arkiv fundamentals (entities, typed attributes,
-queries, Entity Expiration, verifiable ownership) and the current network status. No
-wallet, no key, nothing to deploy — this is an ideathon.
+queries, Entity Expiration, verifiable ownership). No wallet, no key, nothing to
+deploy — this is an ideathon.
 
 Then try:
 
@@ -38,7 +38,7 @@ Then try:
 > 3 things the rubric rewards most.
 
 Tools: `list_tracks` (start here) · `get_doc` (full docs: ideation-guide · rubric · rules ·
-faq · ideathon-overview · arkiv-fundamentals · network-status · agent-guide) · `search_kb`
+faq · ideathon-overview · arkiv-fundamentals · agent-guide) · `search_kb`
 (keyword search across everything).
 
 ## 3. Pressure-test with the built-in idea coach
