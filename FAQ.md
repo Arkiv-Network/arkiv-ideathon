@@ -5,7 +5,7 @@
 ### General
 
 **What is the "What can YOU [ ARKIV ] ?" Ideathon?**
-An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & Agents, Marketplaces, DeFi — plus an open Other lane all month, sharing a **$4,000 USDC prize pool**.
+An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & DevTools, Marketplaces, DeFi — plus an open Other lane all month, sharing a **$4,000 USDC prize pool**.
 
 **Who can participate?**
 Anyone 18+, anywhere in the world. Solo or team (max 5). Fully online.
@@ -33,7 +33,7 @@ In this repo — see [RULES.md](RULES.md).
 
 | Challenge | Window | What belongs here |
 | :-------- | :----- | :---------------- |
-| **1 · AI & Agents** | Aug 3 – 11 | Queryable, time-scoped, tamper-proof coordination state for agents — task queues, review traces, eval indexes, build recipes |
+| **1 · AI & DevTools** | Aug 3 – 11 | Queryable, time-scoped, tamper-proof coordination state for agents — task queues, review traces, eval indexes, build recipes |
 | **2 · Marketplaces** | Aug 12 – 20 | Listings, quotes, bookings, bounties — lifecycle state that filters cleanly and expires itself |
 | **3 · DeFi** | Aug 21 – 31 | Market evidence and coordination state kept off the execution hot path — auctions, risk snapshots, oracle notes, intents |
 | **Other** | All month | Anything else that genuinely needs Arkiv: registries, provenance, governance, social graphs, game state |
@@ -76,7 +76,7 @@ Submit again before the deadline — for the same idea we judge the **newest** e
 One rubric for every challenge and the open lane: **20 points for alignment with your track** + 80 general points across **Arkiv fit**, **data & query design**, **impact & usefulness**, **clarity & feasibility**, and **uniqueness**. Detailed anchors, the 100-point split and the judging process: [Scoring Rubric](docs/scoring-rubric.md).
 
 **Who are the judges?**
-The track hosts lead the judging — Santiago Zuluaga (AI & Agents + Other), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may bring in guest judges.
+The track hosts lead the judging — Santiago Zuluaga (AI & DevTools + Other), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may bring in guest judges.
 
 **Can I get feedback on my submission?**
 Winners get feedback with the announcement. Individual feedback for non-winners may happen post-event but isn't guaranteed.

@@ -4,7 +4,7 @@
 
 Pitch what you'd build on [Arkiv](https://arkiv.network) — the queryable, tamper-proof Web3 database. **Ideas, not prototypes:** you design the concept and its Arkiv data model; you don't have to deploy anything. If you can describe the entities you'd write, the queries you'd run, and why the idea genuinely needs Arkiv — you can enter.
 
-Three back-to-back challenges run across August — **AI & Agents**, then **Marketplaces**, then **DeFi** — plus an open **Other** lane all month. Every submission goes through the same form and is scored on the same rubric.
+Three back-to-back challenges run across August — **AI & DevTools**, then **Marketplaces**, then **DeFi** — plus an open **Other** lane all month. Every submission goes through the same form and is scored on the same rubric.
 
 ---
 
@@ -12,7 +12,7 @@ Three back-to-back challenges run across August — **AI & Agents**, then **Mark
 
 | Challenge | Window | Host | What belongs here |
 | :-------- | :----- | :--- | :---------------- |
-| **1 · AI & Agents** | Aug 3 – 11 | Santiago Zuluaga | Tools where your agent needs queryable, time-scoped, tamper-proof coordination state across runs, commits, tasks or repos |
+| **1 · AI & DevTools** | Aug 3 – 11 | Santiago Zuluaga | Tools where your agent needs queryable, time-scoped, tamper-proof coordination state across runs, commits, tasks or repos |
 | **2 · Marketplaces** | Aug 12 – 20 | Shantelle Awomoyi | Listings, quotes, bookings, bounties — anything with a lifecycle that should filter cleanly and expire itself |
 | **3 · DeFi** | Aug 21 – 31 | Marcos Miranda | Queryable, time-scoped, tamper-proof market evidence and coordination state — kept off the execution hot path |
 | **Other** | All month | Santiago Zuluaga (open lane) | Anything else that genuinely needs Arkiv's model: registries, provenance, governance, social graphs, game state |
@@ -56,7 +56,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 | Date | What |
 | :--- | :--- |
 | **Aug 3** | Submissions open — all challenges + the Other lane |
-| **Aug 3 – 11** | Challenge 1 spotlight · **AI & Agents** |
+| **Aug 3 – 11** | Challenge 1 spotlight · **AI & DevTools** |
 | **Aug 12 – 20** | Challenge 2 spotlight · **Marketplaces** |
 | **Aug 21 – 31** | Challenge 3 spotlight · **DeFi** |
 | **Aug 31** | **Submissions close** — 23:59 UTC |
@@ -80,7 +80,7 @@ Strong ideas can also earn **non-monetary support**: mainnet credits / early acc
 
 ## Judges
 
-The judging team is led by the track hosts — **Santiago Zuluaga** (AI & Agents + Other), **Shantelle Awomoyi** (Marketplaces) and **Marcos Miranda** (DeFi) — who may bring in guest judges. Every submission is scored against the published **[scoring rubric](docs/scoring-rubric.md)**: 20 points for track alignment + 80 general points across Arkiv fit, data & query design, impact & usefulness, clarity & feasibility, and uniqueness.
+The judging team is led by the track hosts — **Santiago Zuluaga** (AI & DevTools + Other), **Shantelle Awomoyi** (Marketplaces) and **Marcos Miranda** (DeFi) — who may bring in guest judges. Every submission is scored against the published **[scoring rubric](docs/scoring-rubric.md)**: 20 points for track alignment + 80 general points across Arkiv fit, data & query design, impact & usefulness, clarity & feasibility, and uniqueness.
 
 ---
 

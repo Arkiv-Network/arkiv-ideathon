@@ -40,14 +40,17 @@ Then try:
 Tools: `list_tracks` (start here) · `get_doc` (full docs: ideation-guide, rubric, rules,
 faq, arkiv-fundamentals) · `search_kb` (keyword search across everything).
 
-## 3. Pressure-test with the built-in live judge
+## 3. Pressure-test with the built-in idea coach
 
-The `review_my_idea` prompt walks your idea through the real rubric — track alignment,
-Arkiv fit, data & query design — scores it 0–5 per criterion with the weak spots named,
-and proposes concrete fixes. Brainstorm, validate, then submit sharp.
+The `review_my_idea` prompt coaches your idea instead of scoring it: it reads your draft,
+places it on a readiness band (**Early / Shaping / Submission-ready**), and asks the 3–5
+highest-leverage questions across the angles judges will look at — the Arkiv
+counterfactual, data & query design, growth, DevEx, scalability, scope, uniqueness.
+Answer its questions, iterate, then submit sharp. (Judges score separately, with the
+rubric — the coach never emits points.)
 
-> Run the Ideathon MCP's review_my_idea prompt on my idea and score it against the
-> rubric — tell me exactly where I'd lose points.
+> Run the Ideathon MCP's review_my_idea prompt on my idea and ask me the questions that
+> make it stronger.
 
 In Claude Code it's also a slash command: `/arkiv-ideathon:review_my_idea`
 

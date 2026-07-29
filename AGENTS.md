@@ -26,13 +26,14 @@ Your job is to help them design a submission that scores well.
    "Lifetime Extension"; for AI use-cases say "ephemeral coordination state", not "memory".
 4. **Don't invent SDK API.** If you sketch code, verify against [docs.arkiv.network](https://docs.arkiv.network)
    or connect the **Ideathon MCP** first — one keyless URL, see `docs/agent-guide.md`:
-   `https://arkiv-ideathon-mcp.vercel.app/api/mcp`. Its `review_my_idea` prompt scores a
-   draft against the real rubric — use it before calling a submission done.
+   `https://arkiv-ideathon-mcp.vercel.app/api/mcp`. Its `review_my_idea` prompt coaches a
+   draft — a readiness band plus the highest-leverage questions on the judges' angles (it
+   never scores; judges do that separately). Use it before calling a submission done.
 5. **Never require or recommend a live deployment.** There is no public Arkiv testnet
    during the event and none is needed — this is an ideas competition.
 
 ## What to ask your user
 
-- Which track (AI & Agents / Marketplaces / DeFi / Other) and what problem they care about.
+- Which track (AI & DevTools / Marketplaces / DeFi / Other) and what problem they care about.
 - The submission deadline is **Aug 31, 2026, 23:59 UTC** — the form is
   [tally.so/r/OD9eeY](https://tally.so/r/OD9eeY?ref=github-agents).

@@ -68,6 +68,26 @@ Extension and creator/owner metadata used as real product features**, not compli
 | :------- | :-------- | :------------ |
 | One blob entity; no attributes worth querying; no expiry thinking | 2+ entity types with typed attributes, the 2–3 queries the product lives on, and a reasonable expiry per entity type | Right-typed attributes chosen deliberately, relationships via shared keys, queries mapped to real user questions, differentiated lifetimes reflecting product logic, verifiable creator/owner surfaced in the UX — a builder could start from this schema |
 
+> #### The tooling lens (how criteria 2 & 3 apply to DevEx / infrastructure ideas)
+>
+> Some submissions are tools *for* Arkiv builders — visualizers, indexers, SDKs, linters, agent
+> surfaces — rather than products that store their own state. Judge them on the same two criteria,
+> through this lens:
+>
+> - **Arkiv fit:** replace "what breaks without Arkiv" with "**what does this unlock that a generic
+>   equivalent can't?**" Score high only if the tool is load-bearing on Arkiv's specific primitives —
+>   entities + typed attributes, predicate queries, Entity Expiration / Lifetime Extension,
+>   `$creator` / `$owner` semantics. A dashboard, CLI or bot that would work identically against
+>   any REST API scores 1–2.
+> - **Data & query design:** score **the Arkiv data contract the tool consumes, emits, or teaches**,
+>   written out concretely — the entity types and typed attributes it expects or produces, the 2–3
+>   predicates it issues (with pagination / counts / client-side ordering behavior), and how it
+>   surfaces expiration and ownership. A tool pitch with no written contract anywhere scores 0–1,
+>   exactly like an app pitch with no schema.
+>
+> The tooling lens changes **whose** schema you write down, never **whether**. A vague "I'll build
+> an Arkiv dashboard" still has nothing concrete to score.
+
 ### 4 · Impact & usefulness — 15 pts
 
 Genuinely useful to a real developer or user — not a demo hunting for a problem.
@@ -104,7 +124,10 @@ A fresh angle — not the obvious first idea every submission reaches for.
 
 1. **Eligibility check before scoring.** Entries that violate the rules (plagiarism, no meaningful
    Arkiv involvement, late, prohibited content) are **disqualified before judging** — removed from
-   the pool, not scored low.
+   the pool, not scored low. *Meaningful Arkiv involvement* includes tools whose core function is
+   load-bearing on Arkiv's primitives even when they write no entities of their own (see the
+   tooling lens above); a static content wrapper, or a generic tool that would work unchanged
+   against any REST API, does not qualify.
 2. **Calibration round.** Before independent scoring, every judge scores the same 3–5 sample
    submissions and compares notes — so a "3" means the same thing across judges.
 3. **Independent scoring.** Each judge scores every valid submission in their track's pool against
@@ -144,6 +167,9 @@ six rubric criteria, exactly as anchored. Rules:
   intentions, and do not penalise plain English.
 - Track alignment is judged against the provided track brief (for "Other": against whether the
   idea genuinely needs queryable, time-scoped, tamper-proof entities).
+- If the submission is a tool for Arkiv builders rather than an app, apply the rubric's tooling
+  lens: judge Arkiv fit on what the tool unlocks that a generic equivalent can't, and Data & query
+  design on the Arkiv data contract the tool consumes, emits, or teaches.
 - Production polish (visual quality of video/mocks) earns nothing; content clarity does.
 - For every criterion, quote or reference the exact submission text that drove the score.
 - If you detect possible plagiarism, a design that doesn't meaningfully involve Arkiv, or
@@ -179,7 +205,7 @@ Return ONLY the JSON object described in the schema.
 ## Judge scorecard template (human)
 
 ```
-Submission: [Idea name]           Track: [AI & Agents / Marketplaces / DeFi / Other]
+Submission: [Idea name]           Track: [AI & DevTools / Marketplaces / DeFi / Other]
 Judge:      [Name]                Date:  [Date]
 
   Track alignment:                   _ /5  → _ /20

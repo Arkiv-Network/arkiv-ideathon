@@ -55,9 +55,9 @@ Every entity is publicly readable, and every write is attributable. Design accor
 
 Same rubric everywhere — pick the one that excites you, or bring anything to the open lane. The idea seeds below are sparks, not briefs: **build something else if it fits the spirit.**
 
-### Challenge 1 · AI & Agents — Aug 3 – 11 · host: Santiago Zuluaga
+### Challenge 1 · AI & DevTools — Aug 3 – 11 · host: Santiago Zuluaga
 
-Agents and dev tools constantly need shared state that outlives a single run but shouldn't live forever: what's been claimed, what a review found, how an eval scored. Arkiv gives that **ephemeral coordination state** a queryable, time-scoped home with verifiable authorship — no side database, no indexer.
+Agents and dev tools constantly need shared state that outlives a single run but shouldn't live forever: what's been claimed, what a review found, how an eval scored. Arkiv gives that **ephemeral coordination state** a queryable, time-scoped home with verifiable authorship — no side database, no indexer. And the track is just as open to **developer tools and infrastructure** that help builders or agents model, ingest, inspect, query, or onboard to Arkiv — for those, the schema you're judged on is the one your tool consumes or emits (see the tooling lens in the [rubric](scoring-rubric.md)).
 
 | Idea seed | The hook |
 | :-------- | :------- |
@@ -66,6 +66,7 @@ Agents and dev tools constantly need shared state that outlives a single run but
 | **Prompt Run Index** — an eval harness logs prompt inputs, model metadata, scores and failures | Indexed numeric scores + timestamps make regressions queryable; short expiry keeps eval clutter from piling up |
 | **Build Recipe Registry** — a searchable registry of build recipes your agent pulls on demand | Recipes indexed by stack / task / version; maintainers update them and readers verify the publisher |
 | **Incident Context Board** — a shared incident scratchpad for logs, hypotheses, owners, mitigations | Time-scoped entities fit the incident window; query by service / severity; signed updates keep the timeline verifiable |
+| **Entity Schema Explorer** — a devtool that introspects any Arkiv project's entities and shows the schema, relationships and lifetimes builders actually created | A tool-shaped idea: judged on the contract it consumes — scoped queries by project + creator, shared-key link resolution, expiry-aware views no generic DB browser could offer |
 
 **A strong submission:** the problem, the entity + attribute schema, the queries your agent relies on, and why Arkiv beats a plain database. A mock, diagram or pseudocode makes it sing.
 

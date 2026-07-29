@@ -22,7 +22,7 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 ## 3. Ideathon Period
 
 - **Submissions open:** August 3, 2026
-- **Challenge 1 spotlight · AI & Agents (host: Santiago Zuluaga):** August 3 – 11, 2026
+- **Challenge 1 spotlight · AI & DevTools (host: Santiago Zuluaga):** August 3 – 11, 2026
 - **Challenge 2 spotlight · Marketplaces (host: Shantelle Awomoyi):** August 12 – 20, 2026
 - **Challenge 3 spotlight · DeFi (host: Marcos Miranda):** August 21 – 31, 2026
 - **Open "Other" lane:** all month
@@ -49,7 +49,7 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 
 ### What counts as a valid submission
 
-- Must address one of the three challenges — **AI & Agents**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
+- Must address one of the three challenges — **AI & DevTools**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
 - Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — not generic storage with an Arkiv label
 - Must be the participant's own original concept. Building on public prior art is fine; state what's yours.
 - Use of AI assistants (Copilot, Claude, ChatGPT, etc.) to develop and sharpen the idea is allowed and encouraged — we care about the quality of the thinking, not how you got there
@@ -131,7 +131,7 @@ The declaration form is provided to winners directly after notification.
 
 ### Panel
 
-The judging team is led by the track hosts — Santiago Zuluaga (AI & Agents + the open "Other" lane), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may include guest judges invited by the Organizer.
+The judging team is led by the track hosts — Santiago Zuluaga (AI & DevTools + the open "Other" lane), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may include guest judges invited by the Organizer.
 
 ### Evaluation criteria
 
