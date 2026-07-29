@@ -11,15 +11,15 @@ designs. One connection fixes that.
 Point Claude, Cursor, or any MCP client at the event's read-only server:
 
 ```
-https://arkiv-ideathon-mcp.vercel.app/api/mcp
+https://ideathon-mcp.arkiv.network/api/mcp
 ```
 
 ```bash
 # Claude Code
-claude mcp add --transport http arkiv-ideathon https://arkiv-ideathon-mcp.vercel.app/api/mcp
+claude mcp add --transport http arkiv-ideathon https://ideathon-mcp.arkiv.network/api/mcp
 
 # Cursor / any MCP client (mcp.json)
-{ "arkiv-ideathon": { "url": "https://arkiv-ideathon-mcp.vercel.app/api/mcp" } }
+{ "arkiv-ideathon": { "url": "https://ideathon-mcp.arkiv.network/api/mcp" } }
 ```
 
 Your agent gets the four tracks with their briefs and idea seeds, the official rules,
