@@ -60,7 +60,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 | **Aug 12 – 20** | Challenge 2 spotlight · **Marketplaces** |
 | **Aug 21 – 31** | Challenge 3 spotlight · **DeFi** |
 | **Aug 31** | **Submissions close** — 23:59 UTC |
-| **Week of Sept 1** | Judging, highlights & winners roll out (recap + per-track winner announcements) |
+| **Week of Sept 1** | Judging, highlights & winners roll out (recap + winner announcements) |
 
 *The Organizer reserves the right to adjust these dates. Changes will be communicated via Discord and official channels. Full terms: [RULES.md](RULES.md).*
 
@@ -72,7 +72,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 
 Strong ideas can also earn **non-monetary support**: mainnet credits / early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification for the strongest ideas.
 
-- Prizes are paid in USDC to an EVM wallet address.
+- Prizes are paid in USDC **on Ethereum mainnet** to the wallet address confirmed during KYC.
 - **Prize winners complete KYC before payout** — every member of a winning team, individually. Details: [RULES Section 7](RULES.md#7-kyc--prize-disbursement).
 - One prize per individual or team, regardless of how many entries they submit.
 

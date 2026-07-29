@@ -37,8 +37,9 @@ Then try:
 > Using the Ideathon MCP, pull the brief for the track that fits my idea and tell me the
 > 3 things the rubric rewards most.
 
-Tools: `list_tracks` (start here) · `get_doc` (full docs: ideation-guide, rubric, rules,
-faq, arkiv-fundamentals) · `search_kb` (keyword search across everything).
+Tools: `list_tracks` (start here) · `get_doc` (full docs: ideation-guide · rubric · rules ·
+faq · ideathon-overview · arkiv-fundamentals · network-status · agent-guide) · `search_kb`
+(keyword search across everything).
 
 ## 3. Pressure-test with the built-in idea coach
 

@@ -4,18 +4,19 @@
 
 ## 1. Overview
 
-The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Factory GmbH, doing business as "Arkiv Network" ("Organizer"). It is an online ideas competition: participants submit concepts designed on Arkiv's entity model — no code, deployment or prototype is required. By submitting an entry, participants agree to these rules in full.
+The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Factory GmbH ("Organizer"); Arkiv is the Organizer's product brand under which this event runs. It is an online ideas competition: participants submit concepts designed on Arkiv's entity model — no code, deployment or prototype is required. By submitting an entry, participants agree to these rules in full.
 
 ---
 
 ## 2. Eligibility
 
-- Open to individuals and teams worldwide. Participation is fully online.
+- Open to individuals and teams worldwide, where participation and prize receipt are permitted by local law and applicable sanctions rules. Participation is fully online.
 - Participants must be 18 years or older at time of submission.
 - No purchase necessary to enter.
 - Employees of the Organizer (Golem Factory GmbH) and its affiliated entities, and their immediate family members, are not eligible.
 - Multiple submissions are allowed, but each must be a distinct idea — not variants or duplicates of the same concept. Only one prize is awarded per individual or team regardless of how many entries they submit.
 - Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5).
+- A team's roster is the one on the submission's latest valid version at the deadline; the person submitting confirms they have the team's authority to enter and accept these rules. A person may appear on more than one team, but can receive at most one prize overall (Section 5).
 
 ---
 
@@ -27,7 +28,7 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 - **Challenge 3 spotlight · DeFi (host: Marcos Miranda):** August 21 – 31, 2026
 - **Open "Other" lane:** all month
 - **Submissions close:** August 31, 2026 at 23:59 UTC
-- **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by per-track winner announcements)
+- **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by winner announcements)
 
 Challenge spotlight windows are when each challenge is hosted (sessions and highlights from its host); the submission form accepts entries to any challenge for the whole period. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
@@ -52,7 +53,7 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 - Must address one of the three challenges — **AI & DevTools**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
 - Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — or, for developer tools, concretely serve Arkiv builders' workflow and Arkiv's developer adoption (see the [rubric's tooling lens](docs/scoring-rubric.md)). Generic storage or a generic tool with an Arkiv label doesn't qualify.
 - Must be the participant's own original concept. Building on public prior art is fine; state what's yours.
-- **Duplicates:** if two submissions are substantially the same idea, the one **submitted first** takes precedence (the form timestamp is the official record); a later near-duplicate is judged only on what it genuinely adds.
+- **Duplicates vs revisions:** re-submitting **your own** idea before the deadline is a revision — the newest version is the one judged, and the idea keeps the precedence timestamp of its **first** submission. If two **different** participants submit substantially the same idea, the one submitted first takes precedence (the form timestamp is the official record).
 - Use of AI assistants (Copilot, Claude, ChatGPT, etc.) to develop and sharpen the idea is allowed and encouraged — we care about the quality of the thinking, not how you got there
 
 ### What will disqualify a submission
@@ -76,16 +77,16 @@ Strong ideas may additionally receive non-monetary support: mainnet credits or e
 
 - **Currency:** Prizes are disbursed in USDC to the EVM wallet address confirmed by the winner during KYC.
 - **One prize per team.** If a winning team has multiple members, the team receives one prize. How the team splits it is the team's responsibility.
-- **One prize per individual or team across all entries.** If more than one of a participant's submissions ranks in a prize position, only the highest-ranked entry claims a prize. Remaining allocations cascade to the next eligible submission.
+- **One prize per individual or team across all entries.** If more than one of a participant's submissions ranks in a prize position, only the highest-ranked entry claims a prize. Remaining allocations cascade to the next eligible submission. The same rule applies to a person appearing on multiple winning teams: only their highest-ranked entry counts.
 - **Prize winners complete KYC before payout.** All team members must complete KYC individually before funds are disbursed. See Section 7.
 - **Prizes are non-transferable** except as described in the unclaimed-prize policy (Section 6).
-- **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes.
+- **Tax obligations** are the winner's sole responsibility. The Organizer does not provide tax advice and will not withhold taxes, except where withholding or reporting is required by applicable law.
 
 ---
 
 ## 6. Unclaimed Prizes
 
-If a winner cannot or does not claim their prize within **3 calendar days** of the winner announcement:
+If a winner cannot or does not claim their prize within **3 calendar days** of their individual winner notification (see Section 7 — the clock starts at the notification, not the public announcement):
 
 1. The Organizer will notify the winner and request confirmation
 2. If no response or the winner declines, the Organizer may transfer the prize to the next highest-ranked submission
@@ -115,10 +116,10 @@ The declaration form is provided to winners directly after notification.
 ### Process
 
 1. **Winner notified** via the email (and, if provided, Telegram) from the submission form
-2. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification
+2. **KYC submission** — all team members submit the three documents listed above within **3 calendar days** of notification (this window covers the initial complete package)
 3. **Wallet confirmation** — all team members indicate the same EVM wallet address in their KYC form, confirming their consent to receive the prize at that address
-4. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed (2 additional days)
-5. **Disbursement** — the prize is sent in USDC to the confirmed wallet address on Ethereum mainnet
+4. **Verification** — the Organizer verifies documents (~2 business days). If documents are incomplete or incorrect, one correction round is allowed: **2 additional days from the correction request** (this is extra time on top of the 3-day window, granted only when the Organizer requests fixes)
+5. **Disbursement** — the prize is sent in USDC to the confirmed wallet address on Ethereum mainnet. If a team cannot complete KYC for all members within the applicable window, the prize is treated as unclaimed (Section 6)
 
 ### KYC data handling
 
@@ -151,11 +152,11 @@ Point weights, the exact scoring formula and the judging process: see the **[Sco
 
 ### Process
 
-1. All valid submissions are reviewed by the full judging panel in a single pool
-2. Each judge scores independently against the rubric
-3. Scores are averaged across judges
-4. Final ranking is determined by total score; the panel allocates the prize pool against the ranking
-5. In case of a tie, the panel discusses and reaches consensus
+1. Eligibility is checked first — ineligible entries are removed from the pool, not scored low
+2. The track's host anchors the **Track alignment** criterion for every submission in their track (if the host recuses, the remaining judges' average carries that criterion)
+3. Every judge scores the five general criteria independently against the rubric; a submission's total = the host's weighted alignment score + the average of the judges' weighted scores per general criterion
+4. Totals feed one overall ranking across the tracks; up to 10 winning ideas are selected against it, with no guaranteed minimum per track — a track with stronger submissions may take more of the pool
+5. Ties are broken on unrounded totals, then higher **Arkiv fit**, then higher **Data & query design**; if still tied, the panel discusses and reaches consensus
 6. Judges' decisions are final and not subject to appeal
 
 ---
@@ -195,6 +196,7 @@ Violations may result in disqualification at the Organizer's sole discretion.
 ## 12. Privacy
 
 - Personal information collected through the submission form is used solely for Ideathon administration (review, updates, results)
+- Judging — including any LLM-assisted first pass — works on the submission's **content answers only**: contact details, wallet addresses and acquisition metadata are excluded from judging packets
 - Email addresses may be used to communicate about the Ideathon (winner notification, updates)
 - Participants will not be added to marketing mailing lists without explicit consent
 - KYC data is handled as described in Section 7
@@ -203,7 +205,7 @@ Violations may result in disqualification at the Organizer's sole discretion.
 
 ## 13. Governing Law
 
-These rules are governed by the laws of Switzerland. Any disputes will be resolved through good-faith negotiation between the parties.
+These rules are governed by the laws of Switzerland. Any disputes will be resolved through good-faith negotiation between the parties; failing that, the courts of Zug, Switzerland have jurisdiction.
 
 ---
 

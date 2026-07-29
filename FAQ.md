@@ -50,7 +50,7 @@ Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) 
 Yes — each entry must be a distinct idea, not variants of the same concept. Only one prize per individual or team regardless of how many entries rank.
 
 **My idea fits two challenges — which do I pick?**
-Pick the one closest to the core of the idea; mention the overlap in your answers. It won't cost you points either way — same rubric everywhere.
+Pick the track whose core user and problem your idea serves, and mention the overlap in your answers. The choice can move up to 20 alignment points (that criterion is anchored by the track's host), so choose where the idea's impact is strongest.
 
 ---
 
@@ -66,7 +66,7 @@ Deeper than a slogan, shorter than a spec. Name the 2–4 entity types, the attr
 No — the video and supporting links are optional at submission. They can clarify the idea, but polish doesn't earn points. Filmed ideas do get prioritised for spotlights and amplification.
 
 **Can I update my submission after submitting?**
-Submit again before the deadline — for the same idea we judge the **newest** entry (the form timestamp is the official record). Distinct ideas are separate entries.
+Submit again before the deadline — for your own idea we judge the **newest** version, and the idea keeps the precedence timestamp of its **first** submission (that matters if someone else later submits something substantially identical — first submitted takes precedence). Distinct ideas are separate entries.
 
 ---
 
