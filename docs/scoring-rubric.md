@@ -134,7 +134,7 @@ A fresh angle — not the obvious first idea every submission reaches for.
    DevEx or developer adoption even when they write no entities of their own (see the tooling
    lens above); what does not qualify is a generic tool or content wrapper with **no concrete
    Arkiv surface at all** — nothing consumed, emitted, taught or integrated.
-2. **Duplicates vs revisions.** Re-submitting **your own** idea before the deadline is a
+2. **Duplicates vs revisions.** Re-submitting **your own** idea before its track's deadline is a
    revision: the newest version is the one judged, and the idea keeps the precedence
    timestamp of its **first** submission. When two **different** participants submit
    substantially the same idea, the one submitted first takes precedence (the form
@@ -149,10 +149,10 @@ A fresh angle — not the obvious first idea every submission reaches for.
 5. **Evidence notes.** A one-line justification is required for any extreme score (0–1 or 5).
 6. **Conflict of interest.** A judge with a personal or professional connection to a submitter
    discloses it and recuses from that entry; its score is the average of the remaining judges.
-7. **Ranking + allocation.** Totals feed **one overall ranking across the tracks**; up to
-   **10 winning ideas at $400 USDC each** from the shared **$4,000 USDC pool** are selected
-   against it, with **no guaranteed minimum per track** — a track with stronger submissions
-   may take more of the pool.
+7. **Ranking + allocation.** Totals feed **one ranking per track**; each track awards its own
+   **$1,000 USDC pool** — **$500 for 1st place, $300 for 2nd, $200 for 3rd** ($4,000 USDC
+   across the four tracks). If a track does not receive three ideas that meet the judging
+   criteria, the remaining prize money from that track may be redistributed to other tracks.
 8. Judges' decisions are final and not subject to appeal.
 
 ## Tiebreaker

@@ -4,20 +4,20 @@
 
 Pitch what you'd build on [Arkiv](https://arkiv.network) — the queryable, tamper-proof Web3 database. **Ideas, not prototypes:** you design the concept and its Arkiv data model; you don't have to deploy anything. If you can describe the entities you'd write, the queries you'd run, and why the idea genuinely needs Arkiv — you can enter.
 
-Three back-to-back challenges run across August — **AI & DevTools**, then **Marketplaces**, then **DeFi** — plus an open **Other** lane all month. Every submission goes through the same form and is scored on the same rubric.
+Three back-to-back challenges run across August — **AI & DevTools**, then **Marketplaces**, then **DeFi** — each accepting submissions only during its own window, plus an open **Other** lane all month. Every submission goes through the same form and is scored on the same rubric.
 
 ---
 
 ## Pick your challenge
 
-| Challenge | Window | Host | What belongs here |
-| :-------- | :----- | :--- | :---------------- |
+| Challenge | Submission window | Host | What belongs here |
+| :-------- | :---------------- | :--- | :---------------- |
 | **1 · AI & DevTools** | Aug 3 – 11 | Santiago Zuluaga | Tools where your agent needs queryable, time-scoped, tamper-proof coordination state across runs, commits, tasks or repos |
 | **2 · Marketplaces** | Aug 12 – 20 | Shantelle Awomoyi | Listings, quotes, bookings, bounties — anything with a lifecycle that should filter cleanly and expire itself |
 | **3 · DeFi** | Aug 21 – 31 | Marcos Miranda | Queryable, time-scoped, tamper-proof market evidence and coordination state — kept off the execution hot path |
 | **Other** | All month | Santiago Zuluaga (open lane) | Anything else that genuinely needs Arkiv's model: registries, provenance, governance, social graphs, game state |
 
-Each challenge has a hosted spotlight window (its host runs sessions and highlights that week), but the form accepts submissions to **any** challenge for the whole month. Full briefs with idea seeds per challenge: **[Ideation Guide](docs/ideation-guide.md)**.
+Each challenge is hosted **and** accepts its submissions during the same window: its host runs sessions and highlights that week, and entries to that challenge close when the week does. Each track closes at the end of its own window; the **Other** lane runs all month. Full briefs with idea seeds per challenge: **[Ideation Guide](docs/ideation-guide.md)**.
 
 ---
 
@@ -35,7 +35,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 
 ## What's in it for you
 
-- A share of the **$4,000 USDC prize pool** — one pool across every challenge and the open lane, weighted to submission quality, not split evenly by headcount
+- **$1,000 USDC per track** — every challenge and the open lane has its own pool: $500 for 1st place, $300 for 2nd, $200 for 3rd ($4,000 USDC across the four)
 - The best ideas get showcased as reference concepts for builders working on Arkiv
 - Feedback and support from the Arkiv team throughout the month — join the [Arkiv Discord](https://discord.gg/arkiv)
 - No code required, no testnet required, no stack to fight — just the thinking
@@ -55,11 +55,11 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 
 | Date | What |
 | :--- | :--- |
-| **Aug 3** | Submissions open — all challenges + the Other lane |
-| **Aug 3 – 11** | Challenge 1 spotlight · **AI & DevTools** |
-| **Aug 12 – 20** | Challenge 2 spotlight · **Marketplaces** |
-| **Aug 21 – 31** | Challenge 3 spotlight · **DeFi** |
-| **Aug 31** | **Submissions close** — 23:59 UTC |
+| **Aug 3** | Submissions open — Challenge 1 + the Other lane |
+| **Aug 3 – 11** | Challenge 1 · **AI & DevTools** — closes **Aug 11, 23:59 UTC** |
+| **Aug 12 – 20** | Challenge 2 · **Marketplaces** — closes **Aug 20, 23:59 UTC** |
+| **Aug 21 – 31** | Challenge 3 · **DeFi** — closes **Aug 31, 23:59 UTC** |
+| **Aug 31** | **Other lane closes** — 23:59 UTC |
 | **Week of Sept 1** | Judging, highlights & winners roll out (recap + winner announcements) |
 
 *The Organizer reserves the right to adjust these dates. Changes will be communicated via Discord and official channels. Full terms: [RULES.md](RULES.md).*
@@ -68,7 +68,7 @@ About 10 minutes if you've thought the idea through. **[Submit here →](https:/
 
 ## Prizes
 
-**$4,000 USDC total — every winning idea receives $400 USDC** (up to 10 winning ideas across the tracks), decided by the judging team (the track host + guests) against the published [scoring rubric](docs/scoring-rubric.md). A track with stronger submissions may take more of the pool.
+**Each of the four tracks has its own $1,000 USDC prize pool — $500 for 1st place, $300 for 2nd, $200 for 3rd** ($4,000 USDC in total), decided by the judging team (the track host + guests) against the published [scoring rubric](docs/scoring-rubric.md). If a track does not receive three ideas that meet the judging criteria, the remaining prize money from that track may be redistributed to other tracks.
 
 Strong ideas can also earn **non-monetary support**: mainnet credits / early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification for the strongest ideas.
 
@@ -81,6 +81,17 @@ Strong ideas can also earn **non-monetary support**: mainnet credits / early acc
 ## Judges
 
 The judging team is led by the track hosts — **Santiago Zuluaga** (AI & DevTools + Other), **Shantelle Awomoyi** (Marketplaces) and **Marcos Miranda** (DeFi) — who may bring in guest judges. Every submission is scored against the published **[scoring rubric](docs/scoring-rubric.md)**: 20 points for track alignment + 80 general points across Arkiv fit, data & query design, impact & usefulness, clarity & feasibility, and uniqueness.
+
+---
+
+## In partnership with Web3Bridge
+
+<img src="assets/ideathon-web3bridge.png" alt="What can YOU [ ARKIV ] ? — Ideathon, in partnership with Web3Bridge" width="640">
+
+**[Web3Bridge](https://www.web3bridgeafrica.com/)** — *Africa's access to the new web* — is running
+this ideathon with us. They train blockchain developers across Africa and lower the barrier into
+Web3. If you are coming through their community: everything in this repo applies to you unchanged —
+the same rubric, the same per-track pools, the same windows. Bring the idea.
 
 ---
 

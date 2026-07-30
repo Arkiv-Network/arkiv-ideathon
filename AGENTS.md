@@ -35,5 +35,7 @@ Your job is to help them design a submission that scores well.
 ## What to ask your user
 
 - Which track (AI & DevTools / Marketplaces / DeFi / Other) and what problem they care about.
-- The submission deadline is **Aug 31, 2026, 23:59 UTC** — the form is
-  [tally.so/r/OD9eeY](https://tally.so/r/OD9eeY?ref=github-agents).
+- **Each track closes at the end of its own window; the Other lane runs all month.** AI & DevTools
+  closes **Aug 11**, Marketplaces **Aug 20**, DeFi **Aug 31**, Other **Aug 31** — all 2026, 23:59 UTC.
+  Check today's date against the track before planning a draft, and say so if its window has closed.
+  The form is [tally.so/r/OD9eeY](https://tally.so/r/OD9eeY?ref=github-agents).

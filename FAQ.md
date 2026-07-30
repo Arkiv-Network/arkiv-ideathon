@@ -5,7 +5,7 @@
 ### General
 
 **What is the "What can YOU [ ARKIV ] ?" Ideathon?**
-An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & DevTools, Marketplaces, DeFi — plus an open Other lane all month, sharing a **$4,000 USDC prize pool**.
+An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & DevTools, Marketplaces, DeFi — each accepting submissions only during its own window, plus an open Other lane all month. **Each of the four tracks has its own $1,000 USDC prize pool** — $500 for 1st place, $300 for 2nd, $200 for 3rd — $4,000 USDC in total.
 
 **Who can participate?**
 Anyone 18+, anywhere in the world. Solo or team (max 5). Fully online.
@@ -31,8 +31,8 @@ In this repo — see [RULES.md](RULES.md).
 
 **What are the challenges?**
 
-| Challenge | Window | What belongs here |
-| :-------- | :----- | :---------------- |
+| Challenge | Submission window | What belongs here |
+| :-------- | :---------------- | :---------------- |
 | **1 · AI & DevTools** | Aug 3 – 11 | Queryable, time-scoped, tamper-proof coordination state for agents — task queues, review traces, eval indexes, build recipes |
 | **2 · Marketplaces** | Aug 12 – 20 | Listings, quotes, bookings, bounties — lifecycle state that filters cleanly and expires itself |
 | **3 · DeFi** | Aug 21 – 31 | Market evidence and coordination state kept off the execution hot path — auctions, risk snapshots, oracle notes, intents |
@@ -41,16 +41,16 @@ In this repo — see [RULES.md](RULES.md).
 Full briefs with idea seeds: [Ideation Guide](docs/ideation-guide.md).
 
 **Do I have to submit during "my" challenge's window?**
-No. The windows are hosted spotlights (each opens with a kick-off session from its host); the form accepts submissions to any challenge for the whole month, until **Aug 31, 23:59 UTC**.
+Yes. Each challenge accepts submissions only during its own window: **AI & DevTools** until **Aug 11, 23:59 UTC**, **Marketplaces** until **Aug 20, 23:59 UTC**, **DeFi** until **Aug 31, 23:59 UTC**. The open **Other** lane runs all month and closes **Aug 31, 23:59 UTC**. Keeping every challenge open all month would push everyone to the last week — nothing live to follow during August, and easy to ignore the challenges altogether. Each one gets its week, and that's when it takes entries.
 
 **Does my challenge choice affect my score?**
-Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space, anchored by that track's host). Pick the track your idea genuinely serves. Every winning idea gets $400 USDC from the shared $4,000 pool, and a track with stronger submissions may take more of it.
+Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space, anchored by that track's host). Pick the track your idea genuinely serves. Each track has its own fixed $1,000 USDC pool — $500 / $300 / $200 for its top three — so you are ranked against the other ideas in your track, not against the whole field.
 
 **Can I submit more than one idea?**
 Yes — each entry must be a distinct idea, not variants of the same concept. Only one prize per individual or team regardless of how many entries rank.
 
 **My idea fits two challenges — which do I pick?**
-Pick the track whose core user and problem your idea serves, and mention the overlap in your answers. The choice can move up to 20 alignment points (that criterion is anchored by the track's host), so choose where the idea's impact is strongest.
+Pick the track whose core user and problem your idea serves, and mention the overlap in your answers. The choice can move up to 20 alignment points (that criterion is anchored by the track's host), so choose where the idea's impact is strongest. Timing bounds the choice too: you can only enter a challenge while its own window is open.
 
 ---
 
@@ -66,7 +66,7 @@ Deeper than a slogan, shorter than a spec. Name the 2–4 entity types, the attr
 No — the video and supporting links are optional at submission. They can clarify the idea, but polish doesn't earn points. Filmed ideas do get prioritised for spotlights and amplification.
 
 **Can I update my submission after submitting?**
-Submit again before the deadline — for your own idea we judge the **newest** version, and the idea keeps the precedence timestamp of its **first** submission (that matters if someone else later submits something substantially identical — first submitted takes precedence). Distinct ideas are separate entries.
+Submit again before your track's deadline — for your own idea we judge the **newest** version, and the idea keeps the precedence timestamp of its **first** submission (that matters if someone else later submits something substantially identical — first submitted takes precedence). Distinct ideas are separate entries.
 
 ---
 
@@ -86,7 +86,7 @@ Winners get feedback with the announcement. Individual feedback for non-winners 
 ### Prizes & KYC
 
 **What do I win?**
-The pool is **$4,000 USDC and every winning idea receives $400 USDC** (up to 10 winners across the tracks), paid to an EVM wallet address. Strong ideas can also earn mainnet credits / early access, follow-on build support and marketing amplification. Winners and highlights roll out the **week of Sept 1**.
+**Each of the four tracks has its own $1,000 USDC pool: $500 for 1st place, $300 for 2nd and $200 for 3rd** — $4,000 USDC in total, paid to an EVM wallet address. If a track does not receive three ideas that meet the judging criteria, the remaining prize money from that track may be redistributed to other tracks. Strong ideas can also earn mainnet credits / early access, follow-on build support and marketing amplification. Winners and highlights roll out the **week of Sept 1**.
 
 **When is KYC needed?**
 Only if you win: prize winners complete KYC before the prize is paid out.
@@ -108,7 +108,7 @@ You do. By entering you grant Arkiv a non-exclusive license to showcase your sub
 No — treat it as public. This is an ideas competition on a shared theme: similar ideas may be conceived independently by others or by the Organizer. Don't include trade secrets. See [RULES Section 9](RULES.md#9-intellectual-property).
 
 **What gets me disqualified?**
-Plagiarism, a design that doesn't meaningfully involve Arkiv, illegal or harmful content, or submitting after the deadline.
+Plagiarism, a design that doesn't meaningfully involve Arkiv, illegal or harmful content, or submitting after your track's deadline.
 
 ---
 

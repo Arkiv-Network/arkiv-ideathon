@@ -16,21 +16,20 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 - Employees of the Organizer (Golem Factory GmbH) and its affiliated entities, and their immediate family members, are not eligible.
 - Multiple submissions are allowed, but each must be a distinct idea — not variants or duplicates of the same concept. Only one prize is awarded per individual or team regardless of how many entries they submit.
 - Teams have a size limit of 5, but only **one prize is awarded per winning team** (see Section 5).
-- A team's roster is the one on the submission's latest valid version at the deadline; the person submitting confirms they have the team's authority to enter and accept these rules. A person may appear on more than one team, but can receive at most one prize overall (Section 5).
+- A team's roster is the one on the submission's latest valid version at its track's deadline; the person submitting confirms they have the team's authority to enter and accept these rules. A person may appear on more than one team, but can receive at most one prize overall (Section 5).
 
 ---
 
 ## 3. Ideathon Period
 
 - **Submissions open:** August 3, 2026
-- **Challenge 1 spotlight · AI & DevTools (host: Santiago Zuluaga):** August 3 – 11, 2026
-- **Challenge 2 spotlight · Marketplaces (host: Shantelle Awomoyi):** August 12 – 20, 2026
-- **Challenge 3 spotlight · DeFi (host: Marcos Miranda):** August 21 – 31, 2026
-- **Open "Other" lane:** all month
-- **Submissions close:** August 31, 2026 at 23:59 UTC
+- **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 11, 2026, closing August 11, 2026 at 23:59 UTC
+- **Challenge 2 · Marketplaces (host: Shantelle Awomoyi):** submissions August 12 – 20, 2026, closing August 20, 2026 at 23:59 UTC
+- **Challenge 3 · DeFi (host: Marcos Miranda):** submissions August 21 – 31, 2026, closing August 31, 2026 at 23:59 UTC
+- **Open "Other" lane:** all month, closing August 31, 2026 at 23:59 UTC
 - **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by winner announcements)
 
-Challenge spotlight windows are when each challenge is hosted (sessions and highlights from its host); the submission form accepts entries to any challenge for the whole period. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
+Each challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. Each track closes at the end of its own window; the open "Other" lane runs all month. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
 ---
 
@@ -53,7 +52,7 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 - Must address one of the three challenges — **AI & DevTools**, **Marketplaces**, or **DeFi** — or enter the open **Other** lane
 - Must genuinely use Arkiv's entity model (queryable attributes, expiry, verifiable ownership) as a core part of the design — or, for developer tools, concretely serve Arkiv builders' workflow and Arkiv's developer adoption (see the [rubric's tooling lens](docs/scoring-rubric.md)). Generic storage or a generic tool with an Arkiv label doesn't qualify.
 - Must be the participant's own original concept. Building on public prior art is fine; state what's yours.
-- **Duplicates vs revisions:** re-submitting **your own** idea before the deadline is a revision — the newest version is the one judged, and the idea keeps the precedence timestamp of its **first** submission. If two **different** participants submit substantially the same idea, the one submitted first takes precedence (the form timestamp is the official record).
+- **Duplicates vs revisions:** re-submitting **your own** idea before its track's deadline is a revision — the newest version is the one judged, and the idea keeps the precedence timestamp of its **first** submission. If two **different** participants submit substantially the same idea, the one submitted first takes precedence (the form timestamp is the official record).
 - Use of AI assistants (Copilot, Claude, ChatGPT, etc.) to develop and sharpen the idea is allowed and encouraged — we care about the quality of the thinking, not how you got there
 
 ### What will disqualify a submission
@@ -61,15 +60,15 @@ Optional: supporting links (mock, diagram, pseudocode, repo) and a short video w
 - Plagiarizing another participant's or third party's work and presenting it as your own
 - Submissions whose design does not meaningfully involve Arkiv
 - Content that is illegal, harmful, or violates third-party rights
-- Submissions after the deadline
+- Submissions after their track's deadline
 
 ---
 
 ## 5. Prizes
 
-**Total prize pool: $4,000 USDC — every winning idea receives $400 USDC** (up to 10 winning ideas across the tracks).
+**Each of the four tracks has its own $1,000 USDC prize pool: $500 for 1st place, $300 for 2nd place and $200 for 3rd place** — $4,000 USDC in total across the four tracks.
 
-Winners are decided by the judging team against the published [scoring rubric](docs/scoring-rubric.md), against each track's ranking. The judging team for each track is its host plus guest judges (which may include other Arkiv team members or previous hackathon winners). If one track has stronger submissions, it may take more of the pool; prizes that are not awarded are not guaranteed to be redistributed.
+Winners are decided by the judging team against the published [scoring rubric](docs/scoring-rubric.md), against each track's ranking. The judging team for each track is its host plus guest judges (which may include other Arkiv team members or previous hackathon winners). If a track does not receive three ideas that meet the judging criteria, the remaining prize money from that track may be redistributed to other tracks.
 
 Strong ideas may additionally receive non-monetary support: mainnet credits or early access as Arkiv approaches mainnet, follow-on build incentives, and marketing amplification.
 
@@ -155,7 +154,7 @@ Point weights, the exact scoring formula and the judging process: see the **[Sco
 1. Eligibility is checked first — ineligible entries are removed from the pool, not scored low
 2. The track's host anchors the **Track alignment** criterion for every submission in their track (if the host recuses, the remaining judges' average carries that criterion)
 3. Every judge scores the five general criteria independently against the rubric; a submission's total = the host's weighted alignment score + the average of the judges' weighted scores per general criterion
-4. Totals feed one overall ranking across the tracks; up to 10 winning ideas are selected against it, with no guaranteed minimum per track — a track with stronger submissions may take more of the pool
+4. Totals feed one ranking per track; each track's top three ideas take its $1,000 USDC pool — $500 for 1st, $300 for 2nd, $200 for 3rd. If a track does not receive three ideas that meet the judging criteria, the remaining prize money from that track may be redistributed to other tracks
 5. Ties are broken on unrounded totals, then higher **Arkiv fit**, then higher **Data & query design**; if still tied, the panel discusses and reaches consensus
 6. Judges' decisions are final and not subject to appeal
 
