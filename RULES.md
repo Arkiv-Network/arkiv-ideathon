@@ -23,13 +23,13 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 ## 3. Ideathon Period
 
 - **Submissions open:** August 3, 2026
-- **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 8, 2026, closing August 8, 2026 at 23:59 UTC
-- **Challenge 2 · Marketplaces (host: Shantelle Awomoyi):** submissions August 9 – 15, 2026, closing August 15, 2026 at 23:59 UTC
-- **Challenge 3 · DeFi (host: Marcos Miranda):** submissions August 16 – 22, 2026, closing August 22, 2026 at 23:59 UTC
-- **Open "Other" lane:** submissions August 23 – 31, 2026, closing August 31, 2026 at 23:59 UTC
+- **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 11, 2026, closing August 11, 2026 at 23:59 UTC
+- **Challenge 2 · Marketplaces (host: Marcos Miranda):** submissions August 12 – 20, 2026, closing August 20, 2026 at 23:59 UTC
+- **Challenge 3 · DeFi (host: Shantelle Awomoyi):** submissions August 21 – 31, 2026, closing August 31, 2026 at 23:59 UTC
+- **Open "Other" lane (host: Santiago Zuluaga):** open all month, closing August 31, 2026 at 23:59 UTC
 - **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by winner announcements)
 
-Each challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. Each track closes at the end of its own window, the open "Other" lane included. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
+Each numbered challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. The open "Other" lane is the exception: it accepts submissions all month and closes with the Ideathon on August 31, 2026 at 23:59 UTC. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
 ---
 
@@ -132,7 +132,7 @@ The declaration form is provided to winners directly after notification.
 
 ### Panel
 
-The judging team is led by the track hosts — Santiago Zuluaga (AI & DevTools + the open "Other" lane), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may include guest judges invited by the Organizer.
+The judging team is led by the track hosts — Santiago Zuluaga (AI & DevTools + the open "Other" lane), Marcos Miranda (Marketplaces) and Shantelle Awomoyi (DeFi) — and may include guest judges invited by the Organizer.
 
 ### Evaluation criteria
 
