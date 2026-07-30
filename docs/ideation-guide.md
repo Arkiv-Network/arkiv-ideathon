@@ -53,9 +53,9 @@ Every entity is publicly readable, and every write is attributable. Design accor
 
 ## The challenges
 
-Same rubric everywhere — pick the one that excites you, or bring anything to the open lane. The idea seeds below are sparks, not briefs: **build something else if it fits the spirit.** Each challenge accepts submissions only during its own window; the open lane runs all month.
+Same rubric everywhere — pick the one that excites you, or bring anything to the open lane. The idea seeds below are sparks, not briefs: **build something else if it fits the spirit.** Each challenge accepts submissions only during its own window — the open lane included.
 
-### Challenge 1 · AI & DevTools — submissions Aug 3 – 11 (closes Aug 11, 23:59 UTC) · host: Santiago Zuluaga
+### Challenge 1 · AI & DevTools — submissions Aug 3 – 8 (closes Aug 8, 23:59 UTC) · host: Santiago Zuluaga
 
 Agents and dev tools constantly need shared state that outlives a single run but shouldn't live forever: what's been claimed, what a review found, how an eval scored. Arkiv gives that **ephemeral coordination state** a queryable, time-scoped home with verifiable authorship — no side database, no indexer. And the track is just as open to **developer tools and infrastructure** that help builders or agents model, ingest, inspect, query, or onboard to Arkiv — **improving Arkiv's DevEx and developer adoption is first-class here**, even if your tool touches the chain itself lightly (deep use of Arkiv's primitives is a bonus, not a gate). For those, the schema you're judged on is the one your tool consumes or emits (see the tooling lens in the [rubric](scoring-rubric.md)).
 
@@ -70,7 +70,7 @@ Agents and dev tools constantly need shared state that outlives a single run but
 
 **A strong submission:** the problem, the entity + attribute schema, the queries your agent relies on, and why Arkiv beats a plain database. A mock, diagram or pseudocode makes it sing.
 
-### Challenge 2 · Marketplaces — submissions Aug 12 – 20 (closes Aug 20, 23:59 UTC) · host: Shantelle Awomoyi
+### Challenge 2 · Marketplaces — submissions Aug 9 – 15 (closes Aug 15, 23:59 UTC) · host: Shantelle Awomoyi
 
 Marketplaces are mostly state management: what's listed, what's been quoted, what's still available, who said what. Arkiv models each of those as a queryable entity with an expiry and a verifiable creator — inventory filters cleanly and expires itself instead of going stale.
 
@@ -84,7 +84,7 @@ Marketplaces are mostly state management: what's listed, what's been quoted, wha
 
 **A strong submission:** one marketplace flow end-to-end — the entity schema for a listing/quote, the filters buyers run, how state updates and expires, and where verifiable authorship shows up in the UI.
 
-### Challenge 3 · DeFi — submissions Aug 21 – 31 (closes Aug 31, 23:59 UTC) · host: Marcos Miranda
+### Challenge 3 · DeFi — submissions Aug 16 – 22 (closes Aug 22, 23:59 UTC) · host: Marcos Miranda
 
 DeFi generates mountains of state that isn't the swap itself: bids, risk snapshots, oracle candidates, incentive epochs, treasury intents. Arkiv is a good home for that — queryable and tamper-proof, time-scoped to the window it matters in, and explicitly **not** on the execution hot path.
 
@@ -98,7 +98,7 @@ DeFi generates mountains of state that isn't the swap itself: bids, risk snapsho
 
 **A strong submission:** a DeFi concept with an explicit off-hot-path scope — what evidence/state lives as entities, the queries that read it, and how expiry + verifiability become product features.
 
-### The Other lane — all month, open (closes Aug 31, 23:59 UTC)
+### The Other lane — open, submissions Aug 23 – 31 (closes Aug 31, 23:59 UTC)
 
 Not every good idea is AI, a marketplace or DeFi. The open lane takes everything else that maps cleanly to Arkiv — registries and RWA, provenance trails, governance state, social graphs, game or world state. The bar is the same: it has to genuinely need queryable, time-scoped, tamper-proof entities, not just any storage.
 

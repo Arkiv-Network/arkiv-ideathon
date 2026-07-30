@@ -5,7 +5,7 @@
 ### General
 
 **What is the "What can YOU [ ARKIV ] ?" Ideathon?**
-An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & DevTools, Marketplaces, DeFi — each accepting submissions only during its own window, plus an open Other lane all month. **Each of the four tracks has its own $1,000 USDC prize pool** — $500 for 1st place, $300 for 2nd, $200 for 3rd — $4,000 USDC in total.
+An ideas competition on [Arkiv](https://arkiv.network), the Web3 database. You pitch what you'd build — the concept plus its Arkiv data model (entities, attributes, queries, expiry, ownership). **Ideas, not prototypes:** no code, deployment or demo required. Three back-to-back challenges run across August 2026 — AI & DevTools, Marketplaces, DeFi — each accepting submissions only during its own window, followed by an open Other lane that closes the month (Aug 23 – 31). **Each of the four tracks has its own $1,000 USDC prize pool** — $500 for 1st place, $300 for 2nd, $200 for 3rd — $4,000 USDC in total.
 
 **Who can participate?**
 Anyone 18+, anywhere in the world. Solo or team (max 5). Fully online.
@@ -33,15 +33,15 @@ In this repo — see [RULES.md](RULES.md).
 
 | Challenge | Submission window | What belongs here |
 | :-------- | :---------------- | :---------------- |
-| **1 · AI & DevTools** | Aug 3 – 11 | Queryable, time-scoped, tamper-proof coordination state for agents — task queues, review traces, eval indexes, build recipes |
-| **2 · Marketplaces** | Aug 12 – 20 | Listings, quotes, bookings, bounties — lifecycle state that filters cleanly and expires itself |
-| **3 · DeFi** | Aug 21 – 31 | Market evidence and coordination state kept off the execution hot path — auctions, risk snapshots, oracle notes, intents |
-| **Other** | All month | Anything else that genuinely needs Arkiv: registries, provenance, governance, social graphs, game state |
+| **1 · AI & DevTools** | Aug 3 – 8 | Queryable, time-scoped, tamper-proof coordination state for agents — task queues, review traces, eval indexes, build recipes |
+| **2 · Marketplaces** | Aug 9 – 15 | Listings, quotes, bookings, bounties — lifecycle state that filters cleanly and expires itself |
+| **3 · DeFi** | Aug 16 – 22 | Market evidence and coordination state kept off the execution hot path — auctions, risk snapshots, oracle notes, intents |
+| **Other** | Aug 23 – 31 | Anything else that genuinely needs Arkiv: registries, provenance, governance, social graphs, game state |
 
 Full briefs with idea seeds: [Ideation Guide](docs/ideation-guide.md).
 
 **Do I have to submit during "my" challenge's window?**
-Yes. Each challenge accepts submissions only during its own window: **AI & DevTools** until **Aug 11, 23:59 UTC**, **Marketplaces** until **Aug 20, 23:59 UTC**, **DeFi** until **Aug 31, 23:59 UTC**. The open **Other** lane runs all month and closes **Aug 31, 23:59 UTC**. Keeping every challenge open all month would push everyone to the last week — nothing live to follow during August, and easy to ignore the challenges altogether. Each one gets its week, and that's when it takes entries.
+Yes. Each challenge accepts submissions only during its own window: **AI & DevTools** until **Aug 8, 23:59 UTC**, **Marketplaces** until **Aug 15, 23:59 UTC**, **DeFi** until **Aug 22, 23:59 UTC**. The open **Other** lane runs **Aug 23 – 31** and closes **Aug 31, 23:59 UTC**. Keeping every challenge open all month would push everyone to the last week — nothing live to follow during August, and easy to ignore the challenges altogether. Each one gets its week, and that's when it takes entries.
 
 **Does my challenge choice affect my score?**
 Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space, anchored by that track's host). Pick the track your idea genuinely serves. Each track has its own fixed $1,000 USDC pool — $500 / $300 / $200 for its top three — so you are ranked against the other ideas in your track, not against the whole field.

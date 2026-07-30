@@ -23,13 +23,13 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 ## 3. Ideathon Period
 
 - **Submissions open:** August 3, 2026
-- **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 11, 2026, closing August 11, 2026 at 23:59 UTC
-- **Challenge 2 · Marketplaces (host: Shantelle Awomoyi):** submissions August 12 – 20, 2026, closing August 20, 2026 at 23:59 UTC
-- **Challenge 3 · DeFi (host: Marcos Miranda):** submissions August 21 – 31, 2026, closing August 31, 2026 at 23:59 UTC
-- **Open "Other" lane:** all month, closing August 31, 2026 at 23:59 UTC
+- **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 8, 2026, closing August 8, 2026 at 23:59 UTC
+- **Challenge 2 · Marketplaces (host: Shantelle Awomoyi):** submissions August 9 – 15, 2026, closing August 15, 2026 at 23:59 UTC
+- **Challenge 3 · DeFi (host: Marcos Miranda):** submissions August 16 – 22, 2026, closing August 22, 2026 at 23:59 UTC
+- **Open "Other" lane:** submissions August 23 – 31, 2026, closing August 31, 2026 at 23:59 UTC
 - **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by winner announcements)
 
-Each challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. Each track closes at the end of its own window; the open "Other" lane runs all month. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
+Each challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. Each track closes at the end of its own window, the open "Other" lane included. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
 ---
 
