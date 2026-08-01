@@ -44,8 +44,8 @@ specifically. For the **Other** lane, alignment means how genuinely the idea nee
 Web3-database model at all (queryable, time-scoped, tamper-proof entities) outside the three
 named tracks.
 
-This criterion **belongs to the track's host** — Santiago (AI & DevTools · Other), Marcos
-(Marketplaces), Shantelle (DeFi): the host's read of their track's brief anchors its score.
+This criterion **belongs to the track's host** — Santiago (AI & DevTools · Other), Shantelle
+(Marketplaces), Marcos (DeFi): the host's read of their track's brief anchors its score.
 
 | 1 (Weak) | 3 (Solid) | 5 (Excellent) |
 | :------- | :-------- | :------------ |

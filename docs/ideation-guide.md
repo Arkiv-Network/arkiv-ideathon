@@ -70,7 +70,7 @@ Agents and dev tools constantly need shared state that outlives a single run but
 
 **A strong submission:** the problem, the entity + attribute schema, the queries your agent relies on, and why Arkiv beats a plain database. A mock, diagram or pseudocode makes it sing.
 
-### Challenge 2 · Marketplaces — submissions Aug 12 – 20 (closes Aug 20, 23:59 UTC) · host: Marcos Miranda
+### Challenge 2 · Marketplaces — submissions Aug 12 – 20 (closes Aug 20, 23:59 UTC) · host: Shantelle Awomoyi
 
 Marketplaces are mostly state management: what's listed, what's been quoted, what's still available, who said what. Arkiv models each of those as a queryable entity with an expiry and a verifiable creator — inventory filters cleanly and expires itself instead of going stale.
 
@@ -84,7 +84,7 @@ Marketplaces are mostly state management: what's listed, what's been quoted, wha
 
 **A strong submission:** one marketplace flow end-to-end — the entity schema for a listing/quote, the filters buyers run, how state updates and expires, and where verifiable authorship shows up in the UI.
 
-### Challenge 3 · DeFi — submissions Aug 21 – 31 (closes Aug 31, 23:59 UTC) · host: Shantelle Awomoyi
+### Challenge 3 · DeFi — submissions Aug 21 – 31 (closes Aug 31, 23:59 UTC) · host: Marcos Miranda
 
 DeFi generates mountains of state that isn't the swap itself: bids, risk snapshots, oracle candidates, incentive epochs, treasury intents. Arkiv is a good home for that — queryable and tamper-proof, time-scoped to the window it matters in, and explicitly **not** on the execution hot path.
 

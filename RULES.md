@@ -24,12 +24,12 @@ The "What can YOU [ ARKIV ] ?" Ideathon ("Ideathon") is organized by Golem Facto
 
 - **Submissions open:** August 3, 2026
 - **Challenge 1 · AI & DevTools (host: Santiago Zuluaga):** submissions August 3 – 11, 2026, closing August 11, 2026 at 23:59 UTC
-- **Challenge 2 · Marketplaces (host: Marcos Miranda):** submissions August 12 – 20, 2026, closing August 20, 2026 at 23:59 UTC
-- **Challenge 3 · DeFi (host: Shantelle Awomoyi):** submissions August 21 – 31, 2026, closing August 31, 2026 at 23:59 UTC
+- **Challenge 2 · Marketplaces (host: Shantelle Awomoyi):** submissions August 12 – 20, 2026, closing August 20, 2026 at 23:59 UTC
+- **Challenge 3 · DeFi (host: Marcos Miranda):** submissions August 21 – 31, 2026, closing August 31, 2026 at 23:59 UTC
 - **Open "Other" lane (host: Santiago Zuluaga):** open all month, closing August 31, 2026 at 23:59 UTC
 - **Judging, highlights + winners:** rolled out during the week of September 1, 2026 (campaign recap followed by winner announcements)
 
-Each numbered challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. The open "Other" lane is the exception: it accepts submissions all month and closes with the Ideathon on August 31, 2026 at 23:59 UTC. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
+Each numbered challenge accepts submissions only during its own window — that window is both when the challenge is hosted (sessions and highlights from its host) and when its entries are accepted. The open "Other" lane is the exception: it accepts submissions all month and closes with the Ideathon on August 31, 2026 at 23:59 UTC. The "Other" lane also serves as the official catch-all: an idea whose themed challenge window has already closed may still be entered through the "Other" lane until August 31, 2026 at 23:59 UTC, where it is judged with the same rubric and competes for the "Other" lane's prize pool. Late submissions will not be accepted. The timestamp of the submission form entry is the official record. The Organizer reserves the right to adjust these dates; any changes will be communicated via Discord and official channels.
 
 ---
 
@@ -132,7 +132,7 @@ The declaration form is provided to winners directly after notification.
 
 ### Panel
 
-The judging team is led by the track hosts — Santiago Zuluaga (AI & DevTools + the open "Other" lane), Marcos Miranda (Marketplaces) and Shantelle Awomoyi (DeFi) — and may include guest judges invited by the Organizer.
+The judging team is led by the track hosts — Santiago Zuluaga (AI & DevTools + the open "Other" lane), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may include guest judges invited by the Organizer.
 
 ### Evaluation criteria
 

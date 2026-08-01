@@ -13,8 +13,8 @@ Three back-to-back challenges run across August — **AI & DevTools**, then **Ma
 | Challenge | Submission window | Host | What belongs here |
 | :-------- | :---------------- | :--- | :---------------- |
 | **1 · AI & DevTools** | Aug 3 – 11 | Santiago Zuluaga | Tools where your agent needs queryable, time-scoped, tamper-proof coordination state across runs, commits, tasks or repos |
-| **2 · Marketplaces** | Aug 12 – 20 | Marcos Miranda | Listings, quotes, bookings, bounties — anything with a lifecycle that should filter cleanly and expire itself |
-| **3 · DeFi** | Aug 21 – 31 | Shantelle Awomoyi | Queryable, time-scoped, tamper-proof market evidence and coordination state — kept off the execution hot path |
+| **2 · Marketplaces** | Aug 12 – 20 | Shantelle Awomoyi | Listings, quotes, bookings, bounties — anything with a lifecycle that should filter cleanly and expire itself |
+| **3 · DeFi** | Aug 21 – 31 | Marcos Miranda | Queryable, time-scoped, tamper-proof market evidence and coordination state — kept off the execution hot path |
 | **Other** | All month | Santiago Zuluaga (open lane) | Anything else that genuinely needs Arkiv's model: registries, provenance, governance, social graphs, game state |
 
 Each numbered challenge is hosted **and** accepts its submissions during the same window: its host runs sessions and highlights while it is open, and entries to that challenge close when its window does. The open **Other** lane is the exception — it runs all month and closes with the event on **Aug 31, 23:59 UTC**. Full briefs with idea seeds per challenge: **[Ideation Guide](docs/ideation-guide.md)**.
@@ -80,7 +80,7 @@ Strong ideas can also earn **non-monetary support**: mainnet credits / early acc
 
 ## Judges
 
-The judging team is led by the track hosts — **Santiago Zuluaga** (AI & DevTools + Other), **Marcos Miranda** (Marketplaces) and **Shantelle Awomoyi** (DeFi) — who may bring in guest judges. Every submission is scored against the published **[scoring rubric](docs/scoring-rubric.md)**: 20 points for track alignment + 80 general points across Arkiv fit, data & query design, impact & usefulness, clarity & feasibility, and uniqueness.
+The judging team is led by the track hosts — **Santiago Zuluaga** (AI & DevTools + Other), **Shantelle Awomoyi** (Marketplaces) and **Marcos Miranda** (DeFi) — who may bring in guest judges. Every submission is scored against the published **[scoring rubric](docs/scoring-rubric.md)**: 20 points for track alignment + 80 general points across Arkiv fit, data & query design, impact & usefulness, clarity & feasibility, and uniqueness.
 
 ---
 

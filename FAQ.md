@@ -43,6 +43,9 @@ Full briefs with idea seeds: [Ideation Guide](docs/ideation-guide.md).
 **Do I have to submit during "my" challenge's window?**
 Yes, for the three numbered challenges: **AI & DevTools** takes entries until **Aug 11, 23:59 UTC**, **Marketplaces** until **Aug 20, 23:59 UTC**, **DeFi** until **Aug 31, 23:59 UTC**. The open **Other** lane is the exception — it runs all month and closes **Aug 31, 23:59 UTC**. Keeping every challenge open all month would push everyone to the last week — nothing live to follow during August, and easy to ignore the challenges altogether. Each one gets its window, and that's when it takes entries.
 
+**I found the ideathon after my theme's window closed — can I still enter?**
+Yes. The **Other** lane is the official catch-all: it takes entries all month, whatever the theme. Your idea is judged there with the same rubric and competes for the Other lane's $1,000 pool — not the closed challenge's. A themed window decides which pool an idea competes in, never whether a good idea gets to enter.
+
 **Does my challenge choice affect my score?**
 Partly. Every submission is scored on the same [rubric](docs/scoring-rubric.md) — but **20 of the 100 points score how well your idea aligns with the track you entered** (its impact and relevance for that space, anchored by that track's host). Pick the track your idea genuinely serves. Each track has its own fixed $1,000 USDC pool — $500 / $300 / $200 for its top three — so you are ranked against the other ideas in your track, not against the whole field.
 
@@ -76,7 +79,7 @@ Submit again before your track's deadline — for your own idea we judge the **n
 One rubric for every challenge and the open lane: **20 points for alignment with your track** + 80 general points across **Arkiv fit**, **data & query design**, **impact & usefulness**, **clarity & feasibility**, and **uniqueness**. Detailed anchors, the 100-point split and the judging process: [Scoring Rubric](docs/scoring-rubric.md).
 
 **Who are the judges?**
-The track hosts lead the judging — Santiago Zuluaga (AI & DevTools + Other), Marcos Miranda (Marketplaces) and Shantelle Awomoyi (DeFi) — and may bring in guest judges.
+The track hosts lead the judging — Santiago Zuluaga (AI & DevTools + Other), Shantelle Awomoyi (Marketplaces) and Marcos Miranda (DeFi) — and may bring in guest judges.
 
 **Can I get feedback on my submission?**
 Winners get feedback with the announcement. Individual feedback for non-winners may happen post-event but isn't guaranteed.
