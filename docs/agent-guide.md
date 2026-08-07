@@ -29,8 +29,9 @@ deploy — this is an ideathon.
 
 Then try:
 
-> Add the Arkiv Ideathon MCP to my tools, then list its tools, resources and prompts so
-> we know exactly what context we have.
+> Connect to the Arkiv Ideathon MCP at https://ideathon-mcp.arkiv.network/api/mcp and
+> show me what's inside — list its tools, resources and prompts with one line each, so
+> I know it's connected and exactly what context we have.
 
 ## 2. Work the tracks with real context
 
@@ -39,18 +40,21 @@ Then try:
 
 Tools: `list_tracks` (start here) · `get_doc` (full docs: ideation-guide · rubric · rules ·
 faq · ideathon-overview · arkiv-fundamentals · agent-guide) · `search_kb`
-(keyword search across everything).
+(keyword search across everything) · `review_my_idea` (the idea coach — see below).
 
 ## 3. Pressure-test with the built-in idea coach
 
-The `review_my_idea` prompt coaches your idea instead of scoring it: it reads your draft,
+`review_my_idea` coaches your idea instead of scoring it: it reads your draft,
 places it on a readiness band (**Early / Shaping / Submission-ready**), and asks the 3–5
 highest-leverage questions across the angles judges will look at — the Arkiv
 counterfactual, data & query design, growth, DevEx, scalability, scope, uniqueness.
 Answer its questions, iterate, then submit sharp. (Judges score separately, with the
 rubric — the coach never emits points.)
 
-> Run the Ideathon MCP's review_my_idea prompt on my idea and ask me the questions that
+It exists both as an MCP **prompt** and as a **tool**, so plain text is enough — just
+ask your agent:
+
+> Run the Ideathon MCP's review_my_idea on my idea and ask me the questions that
 > make it stronger.
 
 In Claude Code it's also a slash command: `/arkiv-ideathon:review_my_idea`
