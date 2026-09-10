@@ -50,9 +50,9 @@ Submissions closed on **31 August 2026**. Every entry was scored against the pub
 
 | | Idea | What it is |
 | :--- | :--- | :--- |
-| **1st** | **Chorus** | — |
-| **2nd** | **PARALLAX** | — |
-| **3rd** | **Wallet Guardian** | — |
+| **1st** | **Chorus** | A witness log, not an oracle — solvers and keepers publish signed, short-lived observations of DeFi state too small or fast-moving to justify oracle-grade economic security, and their standing is only as good as their last corroborated report. |
+| **2nd** | **PARALLAX** | PARALLAX lets a DeFi risk analyst see the blast radius of a protocol failure before it cascades, not after. |
+| **3rd** | **Wallet Guardian** | Turn your wallet's invisible token approvals into shared security intelligence, see what each permission can do, how much is at risk, and which real exploit it resembles, powered by an exploit-and-reputation graph that lives on Arkiv so any wallet or dApp can read it. |
 
 ### Also worth reading
 
@@ -64,7 +64,7 @@ Podium-grade ideas that carry no prize — two because their authors had already
 | _No prize_ | **Half-Life** | An accessibility map where every fact rots on purpose, so a step-free route shows green only while somebody has confirmed it in the last six hours, and the operator cannot delete the reports that say otherwise. |
 | _No prize_ | **Warranti** | A public warranty registry where the entity's lifetime IS the coverage period, so a second-hand buyer verifies a phone with one query and no wallet, and the shop that owes the repair no longer holds the record that decides whether it owes it. |
 
-Prizes are $500 / $300 / $200 per track, as published. The DeFi placings are Marcos Miranda's; the one-line pitches for two of them are not in this repo's data, hence the dashes.
+Prizes are $500 / $300 / $200 per track, as published. The DeFi placings are Marcos Miranda's.
 
 ### Every idea
 
