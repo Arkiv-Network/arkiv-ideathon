@@ -30,13 +30,13 @@ Submissions closed on **31 August 2026**. Every entry was scored against the pub
 
 | | Idea | What it is |
 | :--- | :--- | :--- |
-| **1st** | **Layak** | Indonesian statutory crane and forklift fitness certificates written as Arkiv entities whose lifetime IS the certificate's legal validity, so the gate check at a site entrance is one existence query with no date comparison in it to get wrong. |
-| **2nd** | **Tideland** | A shared game world with no server and no studio, where every building is an Arkiv entity you pay rent on — pine lasts a week, stone a season, a monument five years — and whatever the players stop caring about literally sinks off the map, because the decay is not game code someone can patch, it is the database. |
+| **1st** | **Tideland** | A shared game world with no server and no studio, where every building is an Arkiv entity you pay rent on — pine lasts a week, stone a season, a monument five years — and whatever the players stop caring about literally sinks off the map, because the decay is not game code someone can patch, it is the database. |
+| **2nd** | **Layak** | Indonesian statutory crane and forklift fitness certificates written as Arkiv entities whose lifetime IS the certificate's legal validity, so the gate check at a site entrance is one existence query with no date comparison in it to get wrong. |
 | **3rd** | **GelGit** | Data that lives on the publisher's own machine and surfaces on Arkiv only during the window it is actually needed, with the timetable itself published on-chain so anyone can query when it comes back. |
 
 ### Marketplaces
 
-<sub>Host: Shantelle Awomoyi · window 12–20 Aug 2026 · her picks, her ranking — reproduced here, not re-judged</sub>
+<sub>Host: Shantelle Awomoyi · window 12–20 Aug 2026</sub>
 
 | | Idea | What it is |
 | :--- | :--- | :--- |
@@ -44,17 +44,27 @@ Submissions closed on **31 August 2026**. Every entry was scored against the pub
 | **2nd** | **Shared Compute Lease Board** | A signed lease ledger for ephemeral agent sandboxes where the lease and the reservation are the same object, so orphaned compute dies on schedule instead of leaking budget and two agents cannot silently hold the same box. |
 | **3rd** | **Strikethrough** | Every price a listing has been offered at is written as an append-only, self-expiring entity signed by the seller, so the struck-through was-price becomes a fact anyone can verify in one query instead of a claim the seller makes about its own past. |
 
+### DeFi
+
+<sub>Host: Marcos Miranda · window 21–31 Aug 2026</sub>
+
+| | Idea | What it is |
+| :--- | :--- | :--- |
+| **1st** | **Chorus** | — |
+| **2nd** | **PARALLAX** | — |
+| **3rd** | **Wallet Guardian** | — |
+
 ### Also worth reading
 
 Podium-grade ideas that carry no prize — two because their authors had already won in another track (the rules award one prize per person across every entry), one because of a host tie-break that is written down in the winners sheet rather than applied silently.
 
 | | Idea | What it is |
 | :--- | :--- | :--- |
-| _2nd on merit_ | **On the Clock** | A 90-day vulnerability disclosure embargo as a transferable Arkiv entity whose lifetime IS the deadline, so the notification date, the party responsible right now, and every request for more time become facts instead of claims. |
-| _3rd on merit_ | **Half-Life** | An accessibility map where every fact rots on purpose, so a step-free route shows green only while somebody has confirmed it in the last six hours, and the operator cannot delete the reports that say otherwise. |
-| _4th_ | **Warranti** | A public warranty registry where the entity's lifetime IS the coverage period, so a second-hand buyer verifies a phone with one query and no wallet, and the shop that owes the repair no longer holds the record that decides whether it owes it. |
+| _No prize_ | **On the Clock** | A 90-day vulnerability disclosure embargo as a transferable Arkiv entity whose lifetime IS the deadline, so the notification date, the party responsible right now, and every request for more time become facts instead of claims. |
+| _No prize_ | **Half-Life** | An accessibility map where every fact rots on purpose, so a step-free route shows green only while somebody has confirmed it in the last six hours, and the operator cannot delete the reports that say otherwise. |
+| _No prize_ | **Warranti** | A public warranty registry where the entity's lifetime IS the coverage period, so a second-hand buyer verifies a phone with one query and no wallet, and the shop that owes the repair no longer holds the record that decides whether it owes it. |
 
-**DeFi** — Challenge 3 — was hosted and judged by Marcos Miranda; its podium is announced on Arkiv's own channels and is not reproduced here.
+Prizes are $500 / $300 / $200 per track, as published. The DeFi placings are Marcos Miranda's; the one-line pitches for two of them are not in this repo's data, hence the dashes.
 
 ### Every idea
 
